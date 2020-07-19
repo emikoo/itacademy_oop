@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OOP</string>
+    <string name="cat_noise">Save</string>
+    <string name="dog_noise">Load</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+</resources>
